@@ -1,1 +1,3 @@
-studying git
+IdealUstam Project
+
+--- to be edited ---
